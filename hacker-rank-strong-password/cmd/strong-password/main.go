@@ -47,9 +47,3 @@ func minimumNumber(n int32, password string) int32 {
 	}
 
 }
-
-// at least 6 length
-// at least 1 digit
-// at least 1 uppercase English char
-// at least 1 lowecase English char
-// at least 1 special char
